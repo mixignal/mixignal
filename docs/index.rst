@@ -1,4 +1,4 @@
-Silicon University, Odisha
+Mixignal Innovations
 ==============
 
 .. include:: ../README.rst
