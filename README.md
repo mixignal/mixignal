@@ -1,6 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working on low-power and high-voltage Analog Integrated Circuits.
 - 🔭 I’m also working on self-publishing a book on basic principles of electrical engineering.
+
+**NOTE** this is the repo for mixignal.readthedocs.io
 <!--
 **mixignal/mixignal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
